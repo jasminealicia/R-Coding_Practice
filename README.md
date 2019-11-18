@@ -11,10 +11,6 @@ Questions:
 (f) Fit a PLS model on the training set, with k chosen by crossvalidation. Report the test error obtained, along with the value of k selected by cross-validation. 
 (g) Comment on the results obtained. How accurately can we predict the number of college applications received? Is there much difference among the test errors resulting from these five approaches?
 
-2. (10 points) The insurance company benchmark data set gives information on customers. Specifically, it contains 86 variables on product-usage data and sociodemographic data derived from zip area codes. There are 5,822 customers in the training set and another 4,000 in the test set. The data were collected to answer the following questions: 
-Can you predict who will be interested in buying a caravan insurance policy and give an explanation why? 
-
-Compute the OLS estimates and compare them with those obtained from the following variableselection algorithms: Forwards Selection, Backwards Selection, Lasso regression, and Ridge regression. Support your answer. (The data can be downloaded from https://kdd.ics.uci.edu/databases/tic/tic.html. )
 
 3. (10 points) (Exercise 9 modified, ISL) We have seen that as the number of features used in a model increases, the training error will necessarily decrease, but the test error may not. We will now explore this in a simulated data set. 
 
