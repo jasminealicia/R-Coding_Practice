@@ -141,7 +141,6 @@ quartz()
 plot(pls.test_error_store) #I think k = 13 could be good, test error: 2650641
 
 
-
 ##########################################
 #(g.) Compare results
 #How accurately can we predict number of apps
